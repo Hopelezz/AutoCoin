@@ -1,4 +1,13 @@
+/__pycache__
+/oldbots
+/.venv
+/bitstampUSD_1-min_data_2012-01-01_to_2021-03-31
+
+.env
 *.log
 /settings/
+/data/
 settings.yaml
 coins_settings.yaml
+.idea
+data 
